@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+# matplotlib aur pandas hatao - backend se data aa jayega
+requests==2.31.0
+# Pandas aur matplotlib nahi chahiye desktop app ko
